@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1656717821 source:c:\users\rolando\desktop\programación - utn\lab de computación\tp integrador\tp_integrador\funciones.cpp
+	<iostream>
+	<string>
+	"funciones.h"
+	<cstdlib>
+	<locale.h>
+	"rlutil.h"
+	<ctime>
+
+1656717821 c:\users\rolando\desktop\programación - utn\lab de computación\tp integrador\tp_integrador\funciones.h
+
+1656717623 source:c:\users\rolando\desktop\programación - utn\lab de computación\tp integrador\tp_integrador\main.cpp
+	<iostream>
+	<string>
+	"funciones.h"
+	<cstdlib>
+	<locale.h>
+	"rlutil.h"
+	<ctime>
+
+1655669995 c:\users\rolando\desktop\programación - utn\lab de computación\tp integrador\tp_integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656294863 source:c:\users\rolando\desktop\ejemplo.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1656717623 source:c:\users\rolando\desktop\programación - utn\primer cuatrimestre\lab de computación\tp integrador\tp_integrador\main.cpp
+	<iostream>
+	<string>
+	"funciones.h"
+	<cstdlib>
+	<locale.h>
+	"rlutil.h"
+	<ctime>
+
+1656717821 c:\users\rolando\desktop\programación - utn\primer cuatrimestre\lab de computación\tp integrador\tp_integrador\funciones.h
+
+1655669995 c:\users\rolando\desktop\programación - utn\primer cuatrimestre\lab de computación\tp integrador\tp_integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656984437 source:c:\users\rolando\desktop\programación - utn\primer cuatrimestre\lab de computación\tp integrador\tp_integrador\funciones.cpp
+	<iostream>
+	<string>
+	"funciones.h"
+	<cstdlib>
+	<locale.h>
+	"rlutil.h"
+	<ctime>
+
